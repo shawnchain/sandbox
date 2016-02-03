@@ -11,3 +11,15 @@ iOSBLESerial
 An iOS class simplify the code work for BLE serial communication, without knowing too much of the CoreBluetooth framework and concepts.
 
 Released under GPLv2 license
+
+iBorer
+=======
+My early experiments on Springboard dylib injection in 2008 which is early than the mobilesubstrate lib. iBorer framework implements a plugin and messaging mechanism and supports dynamic load/unload plugins into springboard.  
+
+The name iBorer means the worm diging into an apple.
+
+All code tested on Jailbroken iPhone with iOS 1/2/3 and now for reference only. 
+
+Have fun. 
+
+
